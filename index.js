@@ -1,6 +1,3 @@
-// console.log('Wagwan!!!');
-
-//Array of integers
 
 function nth_most_rate() {
     let list = [5,5,5,5,4,4,4,3,2,2,1,2,3,7,5,6,6,6,];
